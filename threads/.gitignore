@@ -1,0 +1,5 @@
+**/*.o
+**/.settings
+**/doc/html
+**/Release
+**/Debug

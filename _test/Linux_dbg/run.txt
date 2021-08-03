@@ -1,0 +1,1 @@
+sudo ./_test -mi bsrad -t 0
